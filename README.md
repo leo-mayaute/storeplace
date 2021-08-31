@@ -1,2 +1,2 @@
 # storeplace
-Aquí aprenderé a guardar archivos en GitHub.
+Trabajo de: Leonardo Mayaute y Andre Tinoco
