@@ -1,2 +1,2 @@
-# Ejercicio01
-Trabajo de: Leonardo Mayaute y Andre Tinoco
+# Matemática aplicada al desarrollo y soporte de sistemas
+Trabajos y tareas
